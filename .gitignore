@@ -1,3 +1,7 @@
-build/
-lib/
+/build/
+/lib/
 *.out
+*.lib
+*.a
+*.so
+*.dll
