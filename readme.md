@@ -1,3 +1,3 @@
 ### PING PONG
 
-simple recreation of the notourious ping pong game.
+simple recreation of the notourious pong game.
