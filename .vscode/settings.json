@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "*.txt": "cmake",
+    "glad.h": "c",
+    "stddef.h": "c",
+    "base.h": "c",
+    "cglm.h": "c",
+    "vec4.h": "c"
+  }
+}
